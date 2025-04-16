@@ -2,7 +2,7 @@
 - 👀 I’m interested in applied maths and logic systems
 - 🌱 I’m currently learning artificial inteligence algorithms  
 - 💞️ I’m looking to collaborate on any creative project
-- 📫 How to reach me nicolas.pinho.rj@gmail.com
+- 📫 How to reach me nicolase.pinho.rj@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm starting to use git rn 
 
