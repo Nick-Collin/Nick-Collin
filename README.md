@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nick-Collin
-- 👀 I’m interested in applied maths and logic systems
+- 👀 I’m interested in applied maths
 - 🌱 I’m currently learning artificial inteligence algorithms  
 - 💞️ I’m looking to collaborate on any creative project
 - 📫 How to reach me nicolase.pinho.rj@gmail.com
