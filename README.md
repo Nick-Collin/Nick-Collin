@@ -41,6 +41,28 @@ Outside my personal projects, I lead **Hype USP**, a student organization focuse
 
 ---
 
+## 🔬 Hype USP
+
+### Data, AI & Scientific Communication
+
+I lead **Hype USP**, a student organization dedicated to creating opportunities for students to explore **Data, Artificial Intelligence, research, and emerging technologies**.
+
+My work includes:
+
+* 🎤 Organizing technical talks and events
+* 🔬 Developing research-oriented initiatives
+* 🤝 Connecting students, researchers, and industry
+* 📚 Creating educational and scientific content
+* 🚀 Coordinating projects and teams
+
+One of the things I care about most is making difficult technical and scientific ideas **accessible without making them shallow**.
+
+### Hype USP
+
+[Instagram](https://www.instagram.com/hype.usp/) · [YouTube](https://www.youtube.com/@hype-data-and-ai) · [LinkedIn](https://www.linkedin.com/company/72448271/)
+
+---
+
 # 🚀 Selected Projects
 
 ### 🧠 NeuroLite — Machine Learning from Scratch
@@ -133,44 +155,6 @@ The point isn't just the stopwatch.
 **It's learning how computation can emerge from simple physical rules.**
 
 → [Explore the Redstone Stopwatch](https://github.com/Nick-Collin/Digital-Stopwatch-in-Minecraft)
-
----
-
-## 🔬 Hype USP
-
-### Data, AI & Scientific Communication
-
-I lead **Hype USP**, a student organization dedicated to creating opportunities for students to explore **Data, Artificial Intelligence, research, and emerging technologies**.
-
-My work includes:
-
-* 🎤 Organizing technical talks and events
-* 🔬 Developing research-oriented initiatives
-* 🤝 Connecting students, researchers, and industry
-* 📚 Creating educational and scientific content
-* 🚀 Coordinating projects and teams
-
-One of the things I care about most is making difficult technical and scientific ideas **accessible without making them shallow**.
-
-### Hype USP
-
-[Instagram](https://www.instagram.com/hype.usp/) · [YouTube](https://www.youtube.com/@hype-data-and-ai) · [LinkedIn](https://www.linkedin.com/company/72448271/)
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nick-Collin&show_icons=true&include_all_commits=true&theme=radical" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Collin&layout=compact&langs_count=8&theme=radical" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nick-Collin&theme=redical&hide_border=true" />
-
-</div>
 
 ---
 
