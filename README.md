@@ -63,6 +63,12 @@ One of the things I care about most is making difficult technical and scientific
 
 ---
 
+# 🔬 Undergraduate Research — Complex Networks
+
+Starting a research project with a professor at USP investigating the evolution of degree distributions in complex networks. I’m studying how network growth and structural dynamics can lead to different degree-distribution patterns, with a focus on mathematical modeling, network evolution, and computational experiments.
+
+---
+
 # 🚀 Selected Projects
 
 ### 🧠 NeuroLite — Machine Learning from Scratch
