@@ -1,103 +1,247 @@
-# Hi there, I’m **Nicolas Pinho** 👋
-![Nick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nick-Collin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Collin&layout=compact&theme=radical)
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nick-Collin&color=blue)
-![USP](https://img.shields.io/badge/University-USP-blue?logo=academia)
-![AI Enthusiast](https://img.shields.io/badge/Focus-AI%20%26%20Math-ff69b4?logo=openai)
-![Currently Learning](https://img.shields.io/badge/Learning-Compiler%20%26%20AI-yellow?logo=codeforces)
-![HYPE Member](https://img.shields.io/badge/Community-HYPE%20USP-brightgreen)
+# Hey, I'm Nicolas Pinho 👋
 
+### Building from first principles · Exploring AI, Mathematics & Computer Systems
 
-> *"Always learning. Always building. Always evolving."*
+🎓 **Information Systems @ University of São Paulo (USP)**
+🔬 **Leading Hype USP — Data, AI & Scientific Communication**
+🛠️ I learn by understanding how things work — then trying to build them myself.
 
-## 👀 About Me
+<br>
 
-- **Pronouns:** He / Him  
-- **Current Program:** BSc in **Information Systems** at **University of São Paulo (USP)**  
-- **Core Interests:** Applied Mathematics • AI & Algorithms • Education • Quantum Computing • Social Impact  
-- **Fun Fact:** I learn best by building from the ground up—from Minecraft Redstone CPUs to neural networks and custom compilers.
+<a href="https://github.com/Nick-Collin">
+  <img src="https://komarev.com/ghpvc/?username=Nick-Collin&label=Profile%20Views&color=blue&style=flat" />
+</a>
 
-### 💡 The Spark
+<img src="https://img.shields.io/badge/University-USP-blue?style=flat&logo=academia" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Mathematics-ff69b4?style=flat" />
 
-My tech journey began by shadowing my dad at **IBM**, where I joined hands-on workshops like building robots with Arduino and designing simple games. Later, a tough loss at the Brazilian Math Olympiad challenged me—I came back the next year with a perfect score in Phase 1. That moment ignited a lifelong love for **math**, **science**, and building things that matter.
-
-Big inspirations for me? Names like **Newton**, **Einstein**, and **Hawking**—I’ve always dreamed of leaving a mark on the world through science and technology.
+</div>
 
 ---
 
-## 🌱 Currently Exploring
+## 🧠 About Me
 
-- Building a **compiler** from scratch to deeply understand language design and low-level architecture  
-- Developing **NeuroLite**, a neural network framework made with just NumPy and pandas  
-- Studying **AI algorithms**, from fundamentals to cutting-edge models like Transformers  
-- Diving into **Computer Vision** and **NLP** with real-world applications in mind  
-- Exploring **quantitative models** for social problems  
-- Contributing to educational and accessibility-focused tech initiatives
+I'm an Information Systems student at the **University of São Paulo (USP)** fascinated by what happens underneath the abstractions we use every day.
 
----
+My favorite way to learn is:
 
-## 🧠 Learning by Building
+> **"Humm, I've seen the math... What if I tried to build this myself?"**
 
-I believe theory is best tested through creation. For example, while learning **linear algebra**, I realized that matrix transformations could let me render 3D objects in 2D space. That led me to build a full 3D renderer in Python using `tkinter` and `NumPy`. Rebuilding it in **C/C++ with OpenGL** later helped me understand compilers and memory management—and that curiosity turned into a new project: writing a compiler from scratch.
+That question has taken me from implementing machine learning algorithms from scratch to exploring compilers, 3D rendering, physics simulation, quantum algorithms, and computer architecture.
 
----
+I'm particularly interested in the intersection of:
 
-## 🛠️ Tools & Skills
+> **Mathematics × Algorithms × AI × Systems × Scientific Computing**
 
-| Category                | Tools & Technologies                                     |
-|------------------------|----------------------------------------------------------|
-| **Languages**           | Python • C • C++ • C#                                    |
-| **Web Dev**             | HTML • CSS • JavaScript                                  |
-| **Databases**           | SQLite                                                   |
-| **Frameworks/Libraries**| Tkinter • pandas • pygame • scikit-learn                |
-| **Graphics/Rendering**  | OpenGL • GLFW • GLEW                                     |
-| **AI/ML**               | TensorFlow • PyTorch                                     |
-| **Math & Data Viz**     | NumPy • SciPy • Matplotlib                               |
-| **Dev Tools**           | Git • GitHub • Jupyter • VS Code • Linux                |
+I don't necessarily want to use every technology I encounter. I want to understand the ideas behind them — and building things is usually the fastest way for me to get there.
+
+Outside my personal projects, I lead **Hype USP**, a student organization focused on **Data, Artificial Intelligence, research, and scientific communication**.
 
 ---
 
-## 🚀 Selected Projects
+# 🚀 Selected Projects
 
-### 🔬 **NeuroLite** *(In Development)*  
-An educational ML framework built from scratch using just NumPy and pandas.  
-> Learning goals: forward/backpropagation, optimizers, activation functions, and data preprocessing. Future plans: add support for transformers and vision tasks.
+### 🧠 NeuroLite — Machine Learning from Scratch
 
-### 🛠 **Custom Compiler** *(In Progress)*  
-From tokenizer to parser to codegen, a ground-up compiler project inspired by low-level exploration while linking OpenGL.
+A small machine-learning framework built from scratch using **NumPy and pandas**, inspired by the structure of libraries such as scikit-learn.
 
-### 🧠 **3D Renderer in C/C++** *(In Progress)*  
-Real-time engine using OpenGL, focused on threading and memory. A continuation of my original Python renderer.
+Rather than treating ML as a collection of high-level APIs, NeuroLite is an attempt to understand what happens underneath them:
 
-### 💾 **8‑Bit CPU in Minecraft Redstone** *(Restarting)*  
-Fully simulated CPU with ALU, memory, and control units—an early hands-on dive into computer architecture.
+* Neural network architectures
+* Forward & backward propagation
+* Optimization algorithms
+* Regularization
+* Data preprocessing
+* Classification & regression
+* Training dynamics
+* Convolutional layers
 
-📁 *Explore more on my [GitHub Projects](https://github.com/Nick-Collin?tab=repositories)*
+The goal isn't to build another ML library.
 
----
+**It's to understand the machinery that makes one work.**
 
-## 🎹 Outside the Terminal
-
-- 🎼 **Piano Lover**: Taught myself via YouTube before learning sheet music formally  
-- 🎮 **Gamer & Streamer**: I chill with Rocket League, indie games like *Balatro*, or go live on Twitch (even if no one joins 😄)  
-- 🌍 **Lifelong Learner**: I dream of traveling the world, seeing life through different perspectives, and constantly evolving my vision  
-- 💬 Active member of **HYPE**, an AI student community at USP
+→ [Explore NeuroLite](https://github.com/Nick-Collin/NeuroLite)
 
 ---
 
-## 💞️ Let's Collaborate
+### ⚙️ Charcoal — Compiler from Scratch
 
-I’m looking to team up on projects that aim for **real-world impact**—especially in **education**, **social challenges**, and **accessible tech**. Whether you're building tools for learners, exploring novel AI approaches, or improving equity through tech, I’d love to help.
+An educational compiler project exploring what happens between source code and executable behavior.
+
+The project follows the fundamental stages of a compiler:
+
+```text
+Source Code
+     ↓
+   Lexer
+     ↓
+   Parser
+     ↓
+    AST
+     ↓
+Semantic Analysis
+     ↓
+Code Generation
+```
+
+I'm using the project to explore **programming languages, parsing, abstraction, memory, and low-level computation**.
+
+→ [Explore Charcoal](https://github.com/Nick-Collin/Charcoal)
 
 ---
 
-## 📫 Contact Me
+### 🖥️ Kinetra — Graphics & Physical Simulation
 
-- 📧 [nicolase.pinho.rj@gmail.com](mailto:nicolase.pinho.rj@gmail.com)  
-- 📧 [nicolas.pinho@usp.br](mailto:nicolas.pinho@usp.br)
+A C# graphics and simulation project built with **OpenTK**, exploring the connection between mathematics, rendering, and physical systems.
+
+The project includes work with:
+
+`Linear Algebra` · `Geometry` · `OpenGL` · `Shaders` · `Meshes` · `Camera Systems` · `Physics Simulation`
+
+Rather than relying entirely on existing abstractions, I'm interested in implementing the mathematical machinery behind them and seeing how it translates into an actual simulation.
+
+→ [Explore Kinetra](https://github.com/Nick-Collin/Kinetra)
 
 ---
 
-> *“We rise by lifting others.”*
+### ⚛️ Grover's Algorithm — Quantum Computing
 
+An implementation and exploration of **Grover's Search Algorithm** using Qiskit, developed during **Qiskit Fall Fest 2025**.
+
+This project was an introduction to thinking about algorithms where the underlying computational model itself is different from classical computing.
+
+→ [Explore Grover's Algorithm](https://github.com/Nick-Collin/Groover-s-Algorithm)
+
+---
+
+### 💾 Digital Stopwatch in Minecraft — Redstone Computing
+
+I originally started building an 8-bit computer in Minecraft Redstone, before I started using Git consistently.
+
+I eventually lost that world — but the project left me with a better idea.
+
+Instead of trying to recreate the entire computer, I decided to document a smaller system from the ground up: **a functional synchronous stopwatch built entirely with Redstone**.
+
+The project is designed as an educational journey through:
+
+`Electronics` → `Boolean Logic` → `Digital Circuits` → `State` → `Clocking` → `Computation`
+
+The point isn't just the stopwatch.
+
+**It's learning how computation can emerge from simple physical rules.**
+
+→ [Explore the Redstone Stopwatch](https://github.com/Nick-Collin/Digital-Stopwatch-in-Minecraft)
+
+---
+
+## 🔬 Hype USP
+
+### Data, AI & Scientific Communication
+
+I lead **Hype USP**, a student organization dedicated to creating opportunities for students to explore **Data, Artificial Intelligence, research, and emerging technologies**.
+
+My work includes:
+
+* 🎤 Organizing technical talks and events
+* 🔬 Developing research-oriented initiatives
+* 🤝 Connecting students, researchers, and industry
+* 📚 Creating educational and scientific content
+* 🚀 Coordinating projects and teams
+
+One of the things I care about most is making difficult technical and scientific ideas **accessible without making them shallow**.
+
+### Hype USP
+
+[Instagram](https://www.instagram.com/hype.usp/) · [YouTube](https://www.youtube.com/@hype-data-and-ai) · [LinkedIn](https://www.linkedin.com/company/72448271/)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nick-Collin&show_icons=true&include_all_commits=true&theme=radical" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick-Collin&layout=compact&langs_count=8&theme=radical" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nick-Collin&theme=redical&hide_border=true" />
+
+</div>
+
+---
+
+## 🛠️ Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,dotnet,js,linux,git,github,opengl,pytorch,tensorflow" />
+
+<br><br>
+
+`NumPy` · `pandas` · `SciPy` · `Matplotlib` · `scikit-learn` · `Qiskit`
+
+</div>
+
+---
+
+## 🎹 Beyond Code
+
+When I'm not programming, you'll probably find me:
+
+🎹 Playing classical piano
+♟️ Playing chess
+📚 Going down a mathematical or scientific rabbit hole
+🌎 Learning languages and exploring different perspectives
+🎮 Occasionally disappearing into a game
+
+I have a tendency to start projects simply because I want to answer:
+
+> *"Okay... but how does this actually work?"*
+
+---
+
+## 🤝 Let's Build Something
+
+I'm interested in projects involving:
+
+**AI · Applied Mathematics · Algorithms · Scientific Computing · Computer Graphics · Systems · Education**
+
+Especially projects involving interesting problems, research questions, or ideas that require going a little deeper than the API documentation.
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+<a href="mailto:nicolase.pinho.rj@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="mailto:nicolas.pinho@usp.br">
+  <img src="https://img.shields.io/badge/USP-Email-blue?style=for-the-badge&logo=academia" />
+</a>
+
+<a href="https://github.com/Nick-Collin">
+  <img src="https://img.shields.io/badge/GitHub-Nick--Collin-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/nicolas-pinho-888842317">
+  <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Pinho-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### *Learn deeply. Build from first principles.*
+
+<sub>Probably implementing something that already exists just to understand how it works.</sub>
+
+</div>
