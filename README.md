@@ -37,7 +37,17 @@ I'm particularly interested in the intersection of:
 
 I don't necessarily want to use every technology I encounter. I want to understand the ideas behind them — and building things is usually the fastest way for me to get there.
 
-Outside my personal projects, I lead **Hype USP**, a student organization focused on **Data, Artificial Intelligence, research, and scientific communication**.
+I'm also increasingly interested in **research**, especially problems involving mathematical modeling, complex systems, and computational experimentation.
+
+---
+
+## 🔬 Undergraduate Research — Complex Networks
+
+I'm starting an undergraduate research project with a professor at **USP** investigating the **evolution of degree distributions in complex networks**.
+
+I'm studying how network growth and structural dynamics can lead to different degree-distribution patterns, with a focus on **mathematical modeling, network evolution, and computational experiments**.
+
+This is an ongoing project, and I'm currently exploring the theoretical foundations and computational approaches behind the problem.
 
 ---
 
@@ -60,12 +70,6 @@ One of the things I care about most is making difficult technical and scientific
 ### Hype USP
 
 [Instagram](https://www.instagram.com/hype.usp/) · [YouTube](https://www.youtube.com/@hype-data-and-ai) · [LinkedIn](https://www.linkedin.com/company/72448271/)
-
----
-
-# 🔬 Undergraduate Research — Complex Networks
-
-Starting a research project with a professor at USP investigating the evolution of degree distributions in complex networks. I’m studying how network growth and structural dynamics can lead to different degree-distribution patterns, with a focus on mathematical modeling, network evolution, and computational experiments.
 
 ---
 
@@ -128,7 +132,27 @@ The project includes work with:
 
 `Linear Algebra` · `Geometry` · `OpenGL` · `Shaders` · `Meshes` · `Camera Systems` · `Physics Simulation`
 
-Rather than relying entirely on existing abstractions, I'm interested in implementing the mathematical machinery behind them and seeing how it translates into an actual simulation.
+This project actually started years before Kinetra existed.
+
+Back in high school, I was studying some linear algebra and wanted to visualize what I was learning in 3D. So I decided to try projecting 3D space onto a 2D screen.
+
+I learned about **linear transformations, perspective projection, and rendering pipelines**, and — being a curious student with more enthusiasm than experience — decided to implement the whole thing myself in Python.
+
+Everything ran on a single thread.
+
+It was slow.
+
+But it worked, and I was ridiculously proud of it.
+
+Looking back, I sometimes think:
+
+> *"Why the hell didn't I put that on GitHub?"*
+
+So I decided to rebuild it.
+
+This time, properly — using **C#, .NET, and OpenGL through OpenTK**.
+
+And since I was rebuilding the renderer anyway, I decided to take it further and use it as a foundation for **physics simulations** as well.
 
 → [Explore Kinetra](https://github.com/Nick-Collin/Kinetra)
 
@@ -146,7 +170,9 @@ This project was an introduction to thinking about algorithms where the underlyi
 
 ### 💾 Digital Stopwatch in Minecraft — Redstone Computing
 
-I originally started building an 8-bit computer in Minecraft Redstone, before I started using Git consistently.
+I originally built an 8-bit computer in Minecraft Redstone.
+
+Back then, I was still in school and didn't really know how to use Git. I was mostly just curious and wanted to build something fun.
 
 I eventually lost that world — but the project left me with a better idea.
 
@@ -158,7 +184,7 @@ The project is designed as an educational journey through:
 
 The point isn't just the stopwatch.
 
-**It's learning how computation can emerge from simple physical rules.**
+**It's about understanding how computer architecture can emerge from simple physical rules.**
 
 → [Explore the Redstone Stopwatch](https://github.com/Nick-Collin/Digital-Stopwatch-in-Minecraft)
 
@@ -198,7 +224,7 @@ I have a tendency to start projects simply because I want to answer:
 
 I'm interested in projects involving:
 
-**AI · Applied Mathematics · Algorithms · Scientific Computing · Computer Graphics · Systems · Education**
+**AI · Applied Mathematics · Algorithms · Scientific Computing · Computer Graphics · Complex Systems · Education**
 
 Especially projects involving interesting problems, research questions, or ideas that require going a little deeper than the API documentation.
 
