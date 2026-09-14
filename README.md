@@ -242,10 +242,6 @@ Especially projects involving interesting problems, research questions, or ideas
   <img src="https://img.shields.io/badge/USP-Email-blue?style=for-the-badge&logo=academia" />
 </a>
 
-<a href="https://github.com/Nick-Collin">
-  <img src="https://img.shields.io/badge/GitHub-Nick--Collin-black?style=for-the-badge&logo=github" />
-</a>
-
 <a href="https://www.linkedin.com/in/nicolas-pinho-888842317">
   <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Pinho-blue?style=for-the-badge&logo=linkedin" />
 </a>
